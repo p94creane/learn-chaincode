@@ -49,8 +49,7 @@ Chaincode is a piece of code that is deployed into a network of [Hyperledger fab
 
 ## Setting Up Your Development Environment
 
-Before you get started, you should go [here](docs/setup.md) and build your chaincode development environment. When you come back, you'll have all the tools you need to get through this tutorial.
-
+Before you get started, you should go [here](docs/setup.md) and build your chaincode development environment.
 ## Setting Up Your Development Pipeline
 
 The following tasks take you through the process of building a pipeline that will allow you to build chaincode effectively. In short, your pipeline for iterating on chaincode will consist of the following steps:
